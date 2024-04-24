@@ -1,7 +1,7 @@
 # Exploring Exoplanets: Finding a way to predict a planet's Earth Similarity Index (ESI).
 
 Hello! We're Team 8 and we are here to present our Project to you titled Exploring Exoplanets.
-We determine the habitability of any exoplanet in our vast universe based on its properties such as radius, gravity et cetera. 
+We determine the habitability of any exoplanet in our vast universe based on its properties such as radius, gravity and much more.
 So sit back, relax and enjoy as youre in for a long ride. 
 
 # About 
